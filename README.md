@@ -13,4 +13,3 @@ Linear Search, Binary Search, and Bubble Sort
 ## Binary Search and Bubble Sort Blocks
 ![ScreenShot](BinaryBlocks1.jpg)
 ![ScreenShot](BinaryBlocks2.jpg)
-## Android Emulator
